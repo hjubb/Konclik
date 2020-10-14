@@ -33,7 +33,7 @@ Konclik is published to bintray and can easily be integrated into an existing pr
 ```gradle
 repositories {
     maven {
-        url "https://dl.bintray.com/dbaelz/konclik"
+        url "https://dl.bintray.com/dbaelz/Konclik"
     }
     // Other repos like:
     //jcenter()
